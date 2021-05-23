@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaurav2622 
 - 👀 I’m interested in Travelling , Gaming , Learn New Techs
-- 🌱 I’m currently learning Himachal
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on React JS , Vue JS , and Angular
 - 📫 How to reach me email me on 'gauravthakur262@gmail.com'
 
 <!---
